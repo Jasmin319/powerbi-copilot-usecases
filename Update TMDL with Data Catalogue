@@ -1,0 +1,18 @@
+You are given:
+1. A plain-text TMDL code at the end of the prompt.
+2. An Excel file with two columns: "Name" (measure name) and "Description" (description text).
+
+Task:
+- For each measure in the TMDL code:
+    - Check if a description comment already exists directly above the measure name.
+    - If no description exists, find the corresponding measure name in the Excel file and insert its description above the measure name using the following format:
+        /// [Description text from Excel]
+        measure 'MeasureName' = ...
+
+- Do not modify any part of the existing TMDL code other than adding missing description comments.
+- Preserve all original code, indentation, and structure exactly as it is.
+- Do not escape or replace any characters. Keep `>`, `<`, and `&` exactly as they appear in the original code. Do NOT convert them to `&gt;`, `&lt;`, or `&amp;`.
+- Output the updated TMDL code as a single text file.
+
+Start TMDL Code:
+--Input TMDL Code here
