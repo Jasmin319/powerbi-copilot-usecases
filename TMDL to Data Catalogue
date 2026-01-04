@@ -1,0 +1,53 @@
+Input: At the end of this prompt, you will find a TMDL code that contains a list of DAX measures with names, formulas, and optional metadata (DisplayFolder, FormatString, Table name).
+Tasks:
+
+Create an alphabetically sorted list of all measures with a clear and concise description (for Power BI).
+
+If a description is missing, add a short, meaningful description based on the measure name and/or DAX formula.
+Added descriptions should be neutral and functional (e.g., “Calculates total sales”), without invented business details.
+
+
+Group the measures into 5 main categories based on their functionality.
+For each measure, determine:
+
+DisplayFolder (if provided; otherwise, “No folder assigned”).
+FormatString (if provided; otherwise, leave blank).
+
+
+Analyze each DAX formula and extract:
+
+Referenced tables (only from explicit table names; if none, note “References another measure”).
+Referenced measures.
+Referenced columns in the format 'TableName'[Column].
+Do not invent any additional elements.
+
+
+Create an Excel table with the following columns (columns Business Owner,
+ Tech Owner
+, Status remain empty):
+
+Name
+Description
+DAX Formula
+FormatString
+Main Category
+DisplayFolder
+Referenced Measures
+Referenced Columns
+Referenced Tables
+Business Owner
+Tech Owner
+Status
+
+
+
+Rules:
+
+Only add descriptions if they are missing, and keep them short, neutral, and functional.
+Do not invent any other information.
+If a field is not available, leave it blank.
+Output must be structured and consistent.
+
+Source: Use only the TMDL code provided at the end of this prompt for all analysis.
+TMDL Code:
+--Input Code here
