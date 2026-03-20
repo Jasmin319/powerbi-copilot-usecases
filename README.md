@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](./Assets/Banner.png)
 
 # Power BI Copilot Use Cases
 
