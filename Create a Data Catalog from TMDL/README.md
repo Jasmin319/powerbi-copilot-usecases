@@ -8,7 +8,7 @@ Instead of manually documenting measures, we use metadata extraction and AI to c
 
 ## 🎥 Watch the tutorial
 
-[Create a Data Catalog from TMDL using Copilot](YOUR-YOUTUBE-LINK)
+[Create a Data Catalog from TMDL using Copilot](https://www.youtube.com/watch?v=2cA5Yxi_75k&t=40s)
 
 ---
 
