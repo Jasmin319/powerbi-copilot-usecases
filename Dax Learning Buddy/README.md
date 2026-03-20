@@ -8,7 +8,7 @@ We create an agent that helps business analysts learn DAX through structured exp
 
 ## 🎥 Watch the tutorial
 
-[How to Build a DAX AI Coach for Power BI using Copilot](https://www.youtube.com/watch?v=cSiRsAH_Fow))
+[How to Build a DAX AI Coach for Power BI using Copilot](https://www.youtube.com/watch?v=cSiRsAH_Fow)
 
 ---
 
