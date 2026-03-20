@@ -1,3 +1,4 @@
+![Thumbnail](./Thumbnail-DAX-Learning-Buddy.png)
 # DAX AI Coach with Copilot
 
 In this tutorial, you’ll learn how to build a DAX AI Coach for Power BI using Microsoft Copilot.
@@ -49,16 +50,6 @@ Full configuration and setup instructions:
 
 #### Learning Buddy
 ![DAX AI Coach](./DAX-Learning-Buddy.png)
-
----
-
-### Video Thumbnail
-![Thumbnail](./Thumbnail-DAX-Learning-Buddy.png)
-
----
-
-### Watch Video
-🎥 YouTube: [How to Build a DAX AI Coach for Power BI using Copilot](https://www.youtube.com/watch?v=cSiRsAH_Fow)  
 
 ---
 
