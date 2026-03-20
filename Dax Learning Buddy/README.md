@@ -41,7 +41,7 @@ In this tutorial, you’ll see:
 ### Agent Instructions
 Full configuration and setup instructions:
 
-➡️ [View instructions](./DAX Learning Buddy.txt)
+➡️ [View instructions](./DAX-Learning-Buddy.txt)
 
 ---
 
@@ -53,7 +53,7 @@ Full configuration and setup instructions:
 ---
 
 ### Video Thumbnail
-![Thumbnail](./Thumbnail DAX Learning Buddy.png)
+![Thumbnail](./Thumbnail-DAX-Learning-Buddy.png)
 
 ---
 
