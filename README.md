@@ -1,3 +1,5 @@
+![Banner](./Banner.png)
+
 # Power BI Copilot Use Cases
 
 Practical examples of using Microsoft Copilot with Power BI, including reusable prompts, custom agents, and real-world workflows to enhance reporting and data modeling.
