@@ -57,6 +57,9 @@ Full configuration and setup instructions:
 
 ---
 
+### Watch Video
+🎥 YouTube: [How to Build a DAX AI Coach for Power BI using Copilot](https://www.youtube.com/watch?v=cSiRsAH_Fow)  
+
 ## 🎯 Who this is for
 
 - Power BI users who want to improve their DAX  
@@ -92,9 +95,6 @@ You can build on this concept by:
 - integrating real company datasets  
 - creating multiple learning paths  
 
----
 
-## 🔗 Related content
 
-🎥 YouTube: [your channel link]  
-📝 Blog / Medium: [your link]
+
