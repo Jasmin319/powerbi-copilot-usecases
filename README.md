@@ -49,11 +49,9 @@ If you're new, start here:
 
 ### Prompts
 - Generate measure descriptions from TMDL  
-- (more coming)
 
 ### Agents
 - DAX Learning Agent  
-- (more coming)
 
 ---
 
