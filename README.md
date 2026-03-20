@@ -80,7 +80,7 @@ This repository is licensed under the MIT License.
 
 You are free to use, modify, and share the prompts, agents, and workflows in your own projects.
 
-Created by Jasmin Simader (Microsoft MVP)
+Created by Jasmin Simader
 
 If you use this work, attribution is appreciated:
 - Link to this repository  
