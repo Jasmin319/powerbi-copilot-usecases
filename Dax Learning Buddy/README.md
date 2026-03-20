@@ -48,7 +48,7 @@ Full configuration and setup instructions:
 ### Preview
 
 #### Learning Buddy
-![DAX AI Coach](./DAX Learning Buddy.png)
+![DAX AI Coach](./DAX Learning Buddy.txt)
 
 ---
 
