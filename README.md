@@ -108,3 +108,4 @@ This repository will be continuously expanded with new prompts, agents, and prac
 🎥 YouTube: [Power BI with AI Vibes](https://www.youtube.com/@BIVibes-JasminSimader)  
 👩🏻‍💻 LinkedIn: [Jasmin Simader](https://www.linkedin.com/in/jasmin-simader)  
 📝 Blog / Medium: [Medium Blog](https://medium.com/@jasminsimader)
+🏠 Website: [Jasmin Simader](https://www.jasminsimader.com)
