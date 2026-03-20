@@ -1,6 +1,6 @@
 # Power BI Copilot Use Cases
 
-Practical examples of using POwer BI MCP Server and Microsoft Copilot with Power BI, including reusable prompts, custom agents, and real-world workflows to enhance reporting and data modeling.
+Practical examples of using Microsoft Copilot with Power BI, including reusable prompts, custom agents, and real-world workflows to enhance reporting and data modeling.
 
 This repository focuses on hands-on applications that you can directly use or adapt in your own BI projects.
 
@@ -11,7 +11,6 @@ This repository focuses on hands-on applications that you can directly use or ad
 This repo is a growing collection of:
 
 - Copilot prompts for Power BI and DAX
-- Tutorials for setting up and using Power BI MCP Server
 - M365 Custom agents for learning and productivity (e.g. DAX learning agent)
 - AI-supported workflows for improving data models and documentation
 
@@ -21,21 +20,13 @@ This repo is a growing collection of:
 
 If you're new, start here:
 
-1. MCP + Power BI setup  
-   → Learn how to connect and use Copilot with Power BI
-
-2. Prompts  
+1. Prompts  
    → Ready-to-use prompts for common BI tasks
 
-3. Agents  
+2. Agents  
    → Examples of how to build and use custom agents (e.g. DAX learning)
 
 ---
-
-## Contents
-
-### MCP + Power BI
-- Tutorial: How to use MCP server with Power BI
 
 ### Prompts
 - Generate measure descriptions from TMDL
