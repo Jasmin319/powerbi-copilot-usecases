@@ -1,3 +1,4 @@
+![Measure Documentation](./Measure_documentation-Copilot.png)
 # Create a Data Catalog from TMDL with Copilot
 
 In this tutorial, you’ll learn how to generate scalable measure documentation in Power BI using TMDL and Copilot Chat.
@@ -52,11 +53,6 @@ Use this file to update your model with descriptions:
 
 ---
 
-## 🖼️ Preview
-
-![Measure Documentation](./Measure_documentation-Copilot.png)
-
----
 
 ## 🎯 Who this is for
 
