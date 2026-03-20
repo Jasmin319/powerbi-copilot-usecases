@@ -74,6 +74,29 @@ If you're new, start here:
 
 ---
 
+## 📄 License & Usage
+
+This repository is licensed under the MIT License.
+
+You are free to use, modify, and share the prompts, agents, and workflows in your own projects.
+
+Created by Jasmin Simader (Microsoft MVP)
+
+If you use this work, attribution is appreciated:
+- Link to this repository  
+- Mention the original source  
+- Credit the author  
+
+---
+
+### Note on AI usage
+
+The prompts and agents provided here are designed for practical use with Microsoft Copilot and related tools.
+
+Results may vary depending on context, data quality, and implementation.
+
+---
+
 ## Notes
 
 This repository will be continuously expanded with new prompts, agents, and practical use cases.
