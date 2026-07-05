@@ -1,8 +1,8 @@
 ![Banner](./Assets/Banner.png)
 
-# Power BI Copilot Use Cases
+# Power BI Copilot and Cowork Use Cases
 
-Practical examples of using Microsoft Copilot with Power BI, including reusable prompts, custom agents, and real-world workflows to enhance reporting and data modeling.
+Practical examples of using Microsoft Copilot and Copilot Cowork with Power BI, including reusable prompts, custom agents, and real-world workflows to enhance reporting and data modeling.
 
 This repository focuses on hands-on applications that you can directly use or adapt in your own BI projects.
 
@@ -31,7 +31,8 @@ This repo is a growing collection of:
 
 - Copilot prompts for Power BI and DAX  
 - M365 custom agents for learning and productivity (e.g. DAX learning agent)  
-- AI-supported workflows for improving data models and documentation  
+- AI-supported workflows for improving data models and documentation
+- Cowork Skills for Power BI (documentation)  
 
 All examples are designed to be reusable and adaptable to real-world scenarios.
 
