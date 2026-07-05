@@ -1,0 +1,53 @@
+{
+  "description": "Transforms a Power BI dataflow JSON export (model.json-style \"raw data\" file) into a Word document (.docx) that matches a fixed reference structure exactly \u2014 title block, table of contents, and the seven sections System Overview, Source Systems, Table Catalog (a classification + column profile per query), Core Business Logic, Recommended Relationships, Key Figures, and Data Governance Notes. Use when the user asks to \"document the data flow\", \"turn this dataflow JSON into the documentation\", \"generate the data flow Word doc\", \"create the technical data flow documentation\", \"document the Power BI dataflow\", \"Datenfluss dokumentieren\", or uploads a dataflow / raw-data JSON and asks for the formatted Word document. Do NOT use for slide decks (use pptx), a spreadsheet data dictionary (use xlsx), a prose document that is not this dataflow documentation (use docx directly), a status update (use stakeholder-comms), or live Power BI querying (use PBI tools).",
+  "dimension_notes": {
+    "instruction_specificity": [
+      "43 workflow line(s)",
+      "has Quick Start / example block",
+      "names tools / data sources",
+      "specifies output format"
+    ],
+    "robustness": [
+      "has Guardrails section",
+      "10 guardrail-style rule(s)",
+      "handles missing-data / failure"
+    ],
+    "scope_boundaries": [
+      "has 'When NOT to Use' section",
+      "description states exclusions",
+      "focused single-domain scope"
+    ],
+    "trigger_clarity": [
+      "7 explicit trigger phrase(s)",
+      "has exclusion clause"
+    ]
+  },
+  "dimensions": {
+    "instruction_specificity": 25,
+    "robustness": 23,
+    "scope_boundaries": 23,
+    "trigger_clarity": 25
+  },
+  "faithfulness": {
+    "detail": "instructs grounding / no-fabrication",
+    "status": "PASS"
+  },
+  "grade": "Excellent",
+  "improvements": [],
+  "mvb_pass": true,
+  "mvb_threshold": 70,
+  "path": "/mnt/user-config/.claude/skills/data-flow-doc/SKILL.md",
+  "risk": {
+    "factors": [
+      "takes actions (autonomy / blast radius)"
+    ],
+    "launch_floor": 70,
+    "requires_behavioral": true,
+    "requires_human_review": false,
+    "tier": "medium"
+  },
+  "safety": [],
+  "skill_name": "data-flow-doc",
+  "timestamp": "2026-07-05 10:13 UTC",
+  "total": 96
+}
