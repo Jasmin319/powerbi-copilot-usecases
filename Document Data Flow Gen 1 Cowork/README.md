@@ -55,7 +55,7 @@ Use a Word document as the reference structure for your documentation.
 
 Use a sample **export.json** file to test the workflow or create your own from Power BI Service.
 
-➡️ [Export .json](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/dfd2d944f9b6e320183c0b12ee24588e35273593/Document%20Data%20Flow%20Gen%201%20Cowork/Adventureworks%20Raw%20Data%20Export.json)
+➡️ [Export .json](./Adventureworks%20Raw%20Data%20Export.json)
 
 ---
 
