@@ -10,7 +10,7 @@ Instead of documenting tables, columns, data types, and Power Query transformati
 
 ## 🎥 Watch the tutorial
 
-➡️ https://www.youtube.com/
+➡️ https://youtu.be/MfENXZxHoN4
 
 ---
 
