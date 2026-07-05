@@ -47,7 +47,7 @@ In this tutorial, you'll see how to:
 
 Use a Word document as the reference structure for your documentation.
 
-➡️ *(Add your sample Word template here)*
+➡️ ![Word Template](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/f23fb54879199d94d1e7c74ba87663b60aa5a9c1/Document%20Data%20Flow%20Gen%201%20Cowork/Cowork%20Files/References/example-documentation.docx)
 
 ---
 
