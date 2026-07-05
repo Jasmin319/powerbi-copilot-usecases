@@ -1,4 +1,4 @@
-![Power BI Dataflow Documentation](./Thumbnail Cowork Data Flow Gen 1.png)
+![Power BI Dataflow Documentation](.Document Data Flow Gen 1 Cowork/Thumbnail Cowork Data Flow Gen 1.png)
 
 # Document Power BI Dataflows Gen1 with Copilot CoWork
 
