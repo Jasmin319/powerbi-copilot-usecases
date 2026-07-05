@@ -110,3 +110,10 @@ If you found this project useful, feel free to:
 - 🔗 Connect with me on LinkedIn
 
 Happy documenting!
+
+## Related content
+
+🎥 YouTube: [Power BI with AI Vibes](https://www.youtube.com/@BIVibes-JasminSimader)  
+👩🏻‍💻 LinkedIn: [Jasmin Simader](https://www.linkedin.com/in/jasmin-simader)  
+📝 Blog / Medium: [Medium Blog](https://medium.com/@jasminsimader)  
+🏠 Website: [Jasmin Simader](https://www.jasminsimader.com)
