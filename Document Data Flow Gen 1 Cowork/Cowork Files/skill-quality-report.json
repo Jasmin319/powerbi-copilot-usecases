@@ -1,0 +1,60 @@
+{
+  "description": "Generates a full Business and Technical Documentation from a Power BI dataflow generation JSON export, in German or English (user's choice), always following a fixed document structure: system overview, source systems, a per-query table catalog (profile + column list), core business logic, relationships, key figures, and data-governance notes. Use when user asks to \"document my dataflow\", \"generate documentation from this dataflow export\", \"create dataflow documentation\", \"turn this dataflow JSON into docs\", \"document this dataflow in English\", \"dataflow Dokumentation auf Deutsch\", or uploads a dataflow .json export and asks for documentation. Do NOT use for live Power BI reports/semantic models (use the Power BI tools), for editing an existing Word file (use the docx skill directly), or for summarizing arbitrary non-dataflow JSON.",
+  "dimension_notes": {
+    "instruction_specificity": [
+      "43 workflow line(s)",
+      "has Quick Start / example block",
+      "names tools / data sources",
+      "specifies output format"
+    ],
+    "robustness": [
+      "has Guardrails section",
+      "14 guardrail-style rule(s)",
+      "handles missing-data / failure"
+    ],
+    "scope_boundaries": [
+      "has 'When NOT to Use' section",
+      "description states exclusions",
+      "focused single-domain scope"
+    ],
+    "trigger_clarity": [
+      "6 explicit trigger phrase(s)",
+      "has exclusion clause"
+    ]
+  },
+  "dimensions": {
+    "instruction_specificity": 25,
+    "robustness": 23,
+    "scope_boundaries": 23,
+    "trigger_clarity": 25
+  },
+  "faithfulness": {
+    "detail": "instructs grounding / no-fabrication",
+    "status": "PASS"
+  },
+  "grade": "Excellent",
+  "improvements": [],
+  "mvb_pass": true,
+  "mvb_threshold": 80,
+  "path": "/mnt/user-config/.claude/skills/dataflow-docs/SKILL.md",
+  "risk": {
+    "factors": [
+      "takes actions (autonomy / blast radius)",
+      "touches sensitive data"
+    ],
+    "launch_floor": 80,
+    "requires_behavioral": true,
+    "requires_human_review": true,
+    "tier": "high"
+  },
+  "safety": [
+    {
+      "area": "translation/copyright",
+      "detail": "Touches 'translation/copyright' scope",
+      "status": "WARN"
+    }
+  ],
+  "skill_name": "dataflow-docs",
+  "timestamp": "2026-06-23 07:42 UTC",
+  "total": 96
+}
