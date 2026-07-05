@@ -47,7 +47,7 @@ In this tutorial, you'll see how to:
 
 Use a Word document as the reference structure for your documentation.
 
-➡️ ![Word Template](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/f23fb54879199d94d1e7c74ba87663b60aa5a9c1/Document%20Data%20Flow%20Gen%201%20Cowork/Cowork%20Files/References/example-documentation.docx)
+➡️ [Word Template](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/f23fb54879199d94d1e7c74ba87663b60aa5a9c1/Document%20Data%20Flow%20Gen%201%20Cowork/Cowork%20Files/References/example-documentation.docx)
 
 ---
 
@@ -55,7 +55,8 @@ Use a Word document as the reference structure for your documentation.
 
 Use a sample **export.json** file to test the workflow or create your own from Power BI Service.
 
-➡️ *(Add your sample export.json here)*
+➡️ [Export .json](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/f23fb54879199d94d1e7c74ba87663b60aa5a9c1/Document%20Data%20Flow%20Gen%201%20Cowork/Cowork%20Files/References/example-documentation.docx)
+
 
 ---
 
