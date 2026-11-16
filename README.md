@@ -1,4 +1,4 @@
-![Banner](./Assets/Banner.png)
+![Banner](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/main/Assets/Banner.png)
 
 # Power BI Copilot and Cowork Use Cases
 
